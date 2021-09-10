@@ -1,0 +1,33 @@
+Feedback Exercise 1:
+
+Task 1.1: 0.5 / 1.0 points.
+End indices are not i,j,k, these are the running indices
+----------------------------------
+Task 1.2: 3.0 / 4.0 points.
+Matrix product not commutative: w_t Phi_T Phi w != Phi_t Phi w^2
+----------------------------------
+Task 1.3: 2.0 / 2.0 points.
+Unusual solve implementation. Check official solutions. Still correct implementation
+----------------------------------
+Task 1.4: 1.0 / 1.0 points.
+
+----------------------------------
+Task 2.1: 3.0 / 3.0 points.
+
+----------------------------------
+Task 2.2: 1.5 / 4.0 points.
+Lots of typos/small mistakes. You transponed the derivative w.r.t to mu and swapped sign. Log( 2 Pi) should be multiplied by Dim; why taking the derivative w.r.t Sigma ^-1? needs more explanation
+----------------------------------
+Task 2.3: 1.0 / 1.0 points.
+
+----------------------------------
+Task 3: 3.0 / 4.0 points.
+In minimize: num_iterations should be 1
+----------------------------------
+Total score: 15.0/20.0
+
+
+
+
+If you have questions regarding the correction, please contact the tutor Philipp Dahlinger at
+foo@student.kit.edu

@@ -1,0 +1,20 @@
+Feedback Exercise 3:
+
+Task 1: 6.5 / 6.0 points.
+
+You are one of the three groups to detect that lambda could be < 0 and that in that case the best lambda should be selected as lambda* = 0. (+1 / 2 bonus point for that!)
+----------------------------------
+Task 2: 7.0 / 7.0 points.
+
+----------------------------------
+Task 3: 7.0 / 7.0 points.
+log_like: you could have used the predefined version of the gaussian density
+----------------------------------
+Total score: 20.5/20.0
+
+Everything correct! Good job :)
+
+
+
+If you have questions regarding the correction, please contact the tutor Philipp Dahlinger at
+foo@student.kit.edu

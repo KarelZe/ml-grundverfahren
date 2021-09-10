@@ -1,0 +1,31 @@
+Feedback Exercise 6:
+
+Task 1.1: 3.0 / 3.0 points.
+
+----------------------------------
+Task 1.2: 3.0 / 3.0 points.
+
+----------------------------------
+Task 1.3: 4.0 / 4.0 points.
+Good job!
+----------------------------------
+Task 2.1: 4.0 / 4.0 points.
+
+----------------------------------
+Task 2.2: 2.0 / 2.0 points.
+
+----------------------------------
+Task 2.3: 2.0 / 2.0 points.
+You dont need to shuffle the test loader
+----------------------------------
+Task 2.4: 2.0 / 2.0 points.
+
+----------------------------------
+Total score: 20.0/20.0
+
+Everything correct! Good job :)
+
+
+
+If you have questions regarding the correction, please contact the tutor Philipp Dahlinger at
+uyxuz@student.kit.edu
